@@ -13,7 +13,7 @@ import javax.json.JsonWriter;
  *
  * @author MC
  */
-public class scrittore.java {
+public class scrittore{
     
     public static final String JSON_FILE="libri.json";
     
