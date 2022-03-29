@@ -10,7 +10,7 @@ import javax.json.JsonReader;
 import javax.json.JsonValue;
 
 
-public class lettorefile.java {
+public class lettorefile {
     
     public static final String JSON_FILE="libri.json";
     
